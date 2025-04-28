@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Configuration Git
-        REPO_URL = "git@github.com:Njoyayvan22/ScanLab.git"  // ou HTTPS avec token
+        REPO_URL = "git@github.com:Njoyayvan22/Projet-SE-AVANC-E.git"  // ou HTTPS avec token
         BRANCH = "main"
 
         // Outils (adaptez les chemins)
