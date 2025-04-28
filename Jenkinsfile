@@ -1,7 +1,6 @@
 pipeline {
     agent any
     environment {
-        DOTNET_PATH = '/usr/bin/dotnet'  // Chemin vers dotnet (vérifiez avec `which dotnet`)
     }
     stages {
         stage('Checkout') {
